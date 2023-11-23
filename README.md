@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepika Mathapati</h1>
 <h3 align="center">Passionate newcomer in tech, ready to innovate. Seeking opportunities to contribute and grow as a software developer/engineer.</h3>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 - 🌱 I’m currently learning **J2EE, Python**
 
 - 💬 Ask me about **anything, I am happy to help**
