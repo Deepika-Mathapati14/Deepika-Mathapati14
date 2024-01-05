@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **deepikamathapati14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16vbMMd0eQgWxVcdhL4couXE3u0-sr_XZ/view?usp=drivesdk](https://drive.google.com/file/d/1No5lCHgnEd3f24WZtYnu7e7RsXncax3K/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zYIbCiAjlkZ6bsZesSPnocIpAt0Be9RT/view?usp=drivesdk](https://drive.google.com/file/d/1No5lCHgnEd3f24WZtYnu7e7RsXncax3K/view?usp=drivesdk)
 
 - ⚡ Fun fact **An Engineer knows nothing, but only an Engineer knows this.**
 
