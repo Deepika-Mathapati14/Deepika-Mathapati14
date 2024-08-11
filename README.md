@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Deepika Mathapati</h1>
 <h3 align="center">Passionate newcomer in tech, ready to innovate. Seeking opportunities to contribute and grow as a software developer/engineer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
-- 🌱 I’m currently learning **J2EE, Python**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **anything, I am happy to help**
 
 - 📫 How to reach me **deepikamathapati14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HRqXbpf2nr2jRmff1UXQNAYMKtOHbdYx/view](https://drive.google.com/file/d/1HRqXbpf2nr2jRmff1UXQNAYMKtOHbdYx/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IzmubOf5IM_CLqDSjOYB6gorqjpO2OSI/view?usp=drivesdk][(https://drive.google.com/file/d/1HRqXbpf2nr2jRmff1UXQNAYMKtOHbdYx/view](https://drive.google.com/file/d/1IzmubOf5IM_CLqDSjOYB6gorqjpO2OSI/view?usp=drivesdk))
 
 - ⚡ Fun fact **An Engineer knows nothing, but only an Engineer knows this.**
 
