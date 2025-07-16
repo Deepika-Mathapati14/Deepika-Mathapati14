@@ -8,7 +8,7 @@
 ## 🪄 About Me
 
 - 🌱 Currently learning C# and exploring backend technologies.
-- 🔭 Seeking opportunities as a **Software Developer / Software Engineer**.
+- 🔭 Engineer by degree, problem-solver by nature, and eternal student of technology. I love writing code that not only works but makes someone’s day better. Currently exploring C# — because learning never stops.
 - 💬 Ask me anything — I’m happy to help!
 - 📫 Reach me at **deepikamathapati14@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1S_6MJaTbLgu2muDI9nlsuLagtRDM0dNh/view?usp=drive_link)
