@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepika Mathapati</h1>
 <h3 align="center">Aspiring Software Developer passionate about crafting beautiful and efficient solutions.</h3>
 
-<p>
-  <img align="right" alt="Deepika Photo" width="400" src="https://drive.google.com/uc?id=1WgT2cngiKg7TczNeCLMsKHTXNtjr51Mh"/>
 
-</p>
 
 ---
 
