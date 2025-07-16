@@ -7,8 +7,7 @@
 
 ## 🪄 About Me
 
-- 🌱 Currently learning C# and exploring backend technologies.
-- 🔭 Engineer by degree, problem-solver by nature, and eternal student of technology. I love writing code that not only works but makes someone’s day better. Currently exploring C# — because learning never stops.
+- 🔭 Hey there! I’m Deepika — a software developer who knows tech is half code, half conversation. Also the one who shares a good laugh and believes soft skills are just as crucial as syntax.  Whether I’m building web apps, exploring C# or helping a teammate solve a tricky bug, I’m here to make tech more human. Let’s connect and build something meaningful — together.
 - 💬 Ask me anything — I’m happy to help!
 - 📫 Reach me at **deepikamathapati14@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1S_6MJaTbLgu2muDI9nlsuLagtRDM0dNh/view?usp=drive_link)
