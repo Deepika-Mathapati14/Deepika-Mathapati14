@@ -32,4 +32,13 @@
   </a>
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" style="margin: 10px;"/>
+  </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40" style="margin: 10px;"/>
   </a></p>
