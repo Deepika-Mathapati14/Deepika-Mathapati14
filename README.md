@@ -14,7 +14,8 @@
 - 🔭 Seeking opportunities as a **Software Developer / Software Engineer**.
 - 💬 Ask me anything — I’m happy to help!
 - 📫 Reach me at **deepikamathapati14@gmail.com**
-- 📄 [My Resume]((https://drive.google.com/file/d/1S_6MJaTbLgu2muDI9nlsuLagtRDM0dNh/view?usp=drive_link))
+- 📄 [My Resume](https://drive.google.com/file/d/1S_6MJaTbLgu2muDI9nlsuLagtRDM0dNh/view?usp=drive_link)
+
 - ⚡ Fun fact: *“An Engineer knows nothing, but only an Engineer knows this.”*
 
 ---
