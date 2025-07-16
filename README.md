@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepika Mathapati</h1>
-<h3 align="center">Aspiring Software Developer passionate about crafting beautiful and efficient solutions.</h3>
+<h3 align="center">Engineer by degree, problem-solver by nature, and eternal student of technology. I love writing code that not only works but makes someone’s day better. Currently exploring C# — because learning never stops.</h3>
 
 
 
