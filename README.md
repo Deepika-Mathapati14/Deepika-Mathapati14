@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer passionate about crafting beautiful and efficient solutions.</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="coding" width="400" />
+  <img src=""C:\Users\Deepikamathapati\Downloads\1752647752657.jpg"" alt="coding" width="400" />
 </p>
 
 ---
@@ -88,14 +88,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepikamathapati&show_icons=true&theme=tokyonight" alt="Deepika's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikamathapati&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
-</p>
-
----
 
 
 
