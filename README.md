@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Software Developer passionate about crafting beautiful and efficient solutions.</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1WgT2cngiKg7TczNeCLMsKHTXNtjr51Mh/view?usp=drive_link" alt="coding" width="400" />
+  <img align="right" alt="Deepika Photo" width="400" src="https://drive.google.com/uc?id=1WgT2cngiKg7TczNeCLMsKHTXNtjr51Mh"/>
+
 </p>
 
 ---
